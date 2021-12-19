@@ -42,5 +42,5 @@ Abra http: // localhost: 3000 para visualizá-lo no navegador.
 * Obs: Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Autor
-
+[Valter Santos](https://github.com/svalter)
 
