@@ -9,21 +9,25 @@
 </div>
 </br>
 
-# :smiley: Olá!<br/>
+# Olá!<br/>
 O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
-* Hooks,
-* O ciclo de vida dos componentes,
-* Importação e exportação dos componentes,
-* Configurações de Rotas,
-* Utilização da biblioteca Toast,
-* Consumo de API.
+* Como funciona os Hooks no ReactJS!
+* O ciclo de vida dos componentes
+* Importação e exportação dos componentes
+* Configurações de Rotas!
+* Utilização da biblioteca Toast!
+* Consumo de API!
 
 ## :computer: Sobre o Projeto:
 * Através do consumo de uma API é realizado a listagem dos filmes e todas informações fornecidas.
-* Os filmes listados poderão ser acessados, trazendo a Sinopse do filme acessado e as opções de Salvar em uma página de favoritos e acessar o Trailer.
+* Os filmes listados poderão ser acessados, trazendo a Sinopse do filme acessado e as opções de Salvar em uma página de favoritos e acessar o Trailer
 * Os filmes salvos serão listados na página de Favoritos, podendo ser excluídos caso o usuário desejar.
-* Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube.
-* O Youtube conterá como resultado de pesquisa o trailer do filme selecionado, com a barra de pesquisa preenchida automáticamente.
+* Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube
+* O Youtube conterá como resultado de pesquisa o trailer do filme selecionado, com a barra de pesquisa preenchida automáticamente
+## 🚀 Tecnologias:
+Este projeto foi desenvolvido com as seguintes tecnologias:
+* [React](https://pt-br.reactjs.org/)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :clipboard: Instruções: 
 Para utilizar aplicação siga as intruções abaixo:
@@ -34,7 +38,7 @@ Para utilizar aplicação siga as intruções abaixo:
 Executa o aplicativo no modo de desenvolvimento.
 Abra http: // localhost: 3000 para visualizá-lo no navegador.  
 
-## :wink: Como contribuir:
+## :smiley: Como contribuir:
 * Faça um fork desse repositório,
 * Crie uma branch com a sua feature: git checkout -b minha-feature,
 * Faça commit das suas alterações: git commit -m 'feat: Minha nova feature',
@@ -42,5 +46,5 @@ Abra http: // localhost: 3000 para visualizá-lo no navegador.
 * Obs: Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
 ## Autor
-[Valter Santos](https://github.com/svalter)
+
 
