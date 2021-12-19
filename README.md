@@ -19,7 +19,7 @@ O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
 * Consumo de API!
 
 ## Sobre o Projeto:
-* Através do consumo de uma API pode-se listar os filmes.
+* Através do consumo de uma API é realizado a listagem dos filmes e todas informações fornecidas.
 * Os filmes listados poderão ser acessados, trazendo a Sinopse do filme acessado e as opções de Salvar em uma página de favoritos e acessar o Trailer
 * Os filmes salvos serão listados na página de Favoritos, podendo ser excluídos caso o usuário desejar.
 * Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube
