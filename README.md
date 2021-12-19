@@ -1,14 +1,15 @@
 
 <div align="center">
   <h1>Filmaria!</h1> 
+   <img src="https://user-images.githubusercontent.com/62814299/146662103-fa641df5-5d2e-426c-9638-48e3fc158e6d.png"/>
 </div>
-<img src="https://user-images.githubusercontent.com/62814299/146662103-fa641df5-5d2e-426c-9638-48e3fc158e6d.png"/>
-
+<div align="center">
+ 
+</div>
 
 Olá! Este é apenas um pequeno projeto escrito em ReactJS. Este é meu primeiro projeto desenvolvido em ReactJS
-
 Este projeto foi desenvolvido com o intuito de aprender a tecnologia ReactJS, e como isso podemos entender:
-* Como funciona os Hooks no ReactJS
+* Como funciona os Hooks no ReactJS!
 * O ciclo de vida dos componentes
 * Importação e exportação dos componentes
 * Configurações de Rotas![146661963-746a55c0-1870-4b31-91f9-a445fef65e7f](https://user-images.githubusercontent.com/62814299/146661978-ae3bab11-f7f6-474c-9a8e-4b6c4763f848.png)
