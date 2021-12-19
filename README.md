@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Filmaria!</h1> 
 </div>
-<img src="https://user-images.githubusercontent.com/62814299/146661963-746a55c0-1870-4b31-91f9-a445fef65e7f.png"/>
+<img src="https://user-images.githubusercontent.com/62814299/146662103-fa641df5-5d2e-426c-9638-48e3fc158e6d.png"/>
 
 
 Olá! Este é apenas um pequeno projeto escrito em ReactJS. Este é meu primeiro projeto desenvolvido em ReactJS
