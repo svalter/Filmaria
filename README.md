@@ -11,19 +11,19 @@
 
 # :smiley: Olá!<br/>
 O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
-* Como funciona os Hooks no ReactJS!
-* O ciclo de vida dos componentes
-* Importação e exportação dos componentes
-* Configurações de Rotas!
-* Utilização da biblioteca Toast!
-* Consumo de API!
+* Hooks,
+* O ciclo de vida dos componentes,
+* Importação e exportação dos componentes,
+* Configurações de Rotas,
+* Utilização da biblioteca Toast,
+* Consumo de API.
 
 ## :computer: Sobre o Projeto:
 * Através do consumo de uma API é realizado a listagem dos filmes e todas informações fornecidas.
-* Os filmes listados poderão ser acessados, trazendo a Sinopse do filme acessado e as opções de Salvar em uma página de favoritos e acessar o Trailer
+* Os filmes listados poderão ser acessados, trazendo a Sinopse do filme acessado e as opções de Salvar em uma página de favoritos e acessar o Trailer.
 * Os filmes salvos serão listados na página de Favoritos, podendo ser excluídos caso o usuário desejar.
-* Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube
-* O Youtube conterá como resultado de pesquisa o trailer do filme selecionado, com a barra de pesquisa preenchida automáticamente
+* Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube.
+* O Youtube conterá como resultado de pesquisa o trailer do filme selecionado, com a barra de pesquisa preenchida automáticamente.
 
 ## :clipboard: Instruções: 
 Para utilizar aplicação siga as intruções abaixo:
