@@ -9,7 +9,7 @@
 </div>
 </br>
 
-# Olá!<br/>
+# :smiley: Olá!<br/>
 O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
 * Como funciona os Hooks no ReactJS!
 * O ciclo de vida dos componentes
@@ -34,7 +34,7 @@ Para utilizar aplicação siga as intruções abaixo:
 Executa o aplicativo no modo de desenvolvimento.
 Abra http: // localhost: 3000 para visualizá-lo no navegador.  
 
-## :smiley: Como contribuir:
+## :wink: Como contribuir:
 * Faça um fork desse repositório,
 * Crie uma branch com a sua feature: git checkout -b minha-feature,
 * Faça commit das suas alterações: git commit -m 'feat: Minha nova feature',
