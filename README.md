@@ -15,3 +15,4 @@ No diretório do projeto, você pode executar:
 
 Executa o aplicativo no modo de desenvolvimento.
 A bra http: // localhost: 3000 para visualizá-lo no navegador.  
+ <img src="![Vectary texture](https://user-images.githubusercontent.com/62814299/146661041-9678f875-04aa-4858-b701-934e0768fce8.jpg)"/ >
