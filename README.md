@@ -1,28 +1,22 @@
 
 <div align="center">
   <h1>Filmaria!</h1> 
-   <img src="https://user-images.githubusercontent.com/62814299/146662103-fa641df5-5d2e-426c-9638-48e3fc158e6d.png"/>
 </div>
+</br>
 <div align="center">
- 
+  <img src="https://user-images.githubusercontent.com/62814299/146662485-9f48e037-9bd0-4ecf-856a-5325fa7ab2fb.png"/>
+  <img src="https://user-images.githubusercontent.com/62814299/146662484-d9a9282c-85e4-4c38-8b92-fe7e0e1a4f3d.png"/>
 </div>
+</br>
 
-Olá! Este é apenas um pequeno projeto escrito em ReactJS. Este é meu primeiro projeto desenvolvido em ReactJS
-Este projeto foi desenvolvido com o intuito de aprender a tecnologia ReactJS, e como isso podemos entender:
+Olá!
+O projeto desenvolvido foi para fim de estudos. Neste projeto aprendi:
 * Como funciona os Hooks no ReactJS!
 * O ciclo de vida dos componentes
 * Importação e exportação dos componentes
-* Configurações de Rotas![146661963-746a55c0-1870-4b31-91f9-a445fef65e7f](https://user-images.githubusercontent.com/62814299/146661978-ae3bab11-f7f6-474c-9a8e-4b6c4763f848.png)
-
+* Configurações de Rotas!
 * Utilização da biblioteca Toast!
 * Consumo de API!
-
-## Instruções: 
-No diretório do projeto, você pode executar:
-### yarn start
-Executa o aplicativo no modo de desenvolvimento.
-Abra http: // localhost: 3000 para visualizá-lo no navegador.  
-
 
 ## Sobre o Projeto:
 * Através do consumo de uma API pode-se listar os filmes.
@@ -31,12 +25,10 @@ Abra http: // localhost: 3000 para visualizá-lo no navegador.
 * Ao clicar no botão de Trailer, será redirecionado automaticamente ao Youtube
 * O Youtube conterá como resultado de pesquisa o trailer do filme selecionado, com a barra de pesquisa preenchida automáticamente
 
-## Telas
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/62814299/146661403-f26ffbad-b893-43a7-9530-0e32e3c5705c.png" width="450px"/>
-  <img src="https://user-images.githubusercontent.com/62814299/146661487-028ac9e3-e3fa-426a-b286-f21f0b54a706.png" width="450px"/>
-</div>
-
-
+## Instruções: 
+No diretório do projeto, você pode executar:
+### yarn start
+Executa o aplicativo no modo de desenvolvimento.
+Abra http: // localhost: 3000 para visualizá-lo no navegador.  
 
 
