@@ -3,7 +3,7 @@ import { useParams, useHistory } from 'react-router-dom';
 import { toast } from 'react-toastify';
 
 import api from '../../services/api';
-import './filme-info.css';
+import './style.css';
 
 
 export default function Filme() {
